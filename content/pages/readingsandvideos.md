@@ -330,7 +330,7 @@ Gender and Earlier Forms of Resistance: Aba Riots in Nigeria
 
 _Readings_
 
-Van Allen, Judith. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“'Sitting on a Man': Colonialism and the Lost Political Institutions of Igbo Women.” (PDF - 2MB)](http://www.artsrn.ualberta.ca/amcdouga/Hist247/winter%202010/additional%20rdgs/sitting_on_man.pdf) _Canadian Journal of African Studies / Revue Canadienne des Études Africaines_ 6, no. 2 (1972): 165–81.
+Van Allen, Judith. [“'Sitting on a Man': Colonialism and the Lost Political Institutions of Igbo Women.” (PDF - 2MB)](http://www.artsrn.ualberta.ca/amcdouga/Hist247/winter%202010/additional%20rdgs/sitting_on_man.pdf) _Canadian Journal of African Studies / Revue Canadienne des Études Africaines_ 6, no. 2 (1972): 165–81.
 
 Bastian, Misty L. “'Vultures of the Marketplace': Southeastern Nigerian Women and Discourses of the _Ogu Umunwaayi_ (Women's War) of 1929.” Chapter 11 in _Women in African Colonial Histories_. Edited by Jean Allman, Susan Geiger, and Nakanyike Musisi. Indiana University Press, 2002. ISBN: 9780253215079. 
 
@@ -670,7 +670,7 @@ _Readings_
 
 Whiteside, Alan “[Poverty and HIV/AIDS in Africa](https://www.tandfonline.com/doi/abs/10.1080/01436590220126667).” _Third World Quarterly_ 23, no. 2 (2002): 313–32.
 
-Susser, Ida, and Zena Stein. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Culture, Sexuality, and Women's Agency in the Prevention of HIV/AIDS in Southern Africa.” (PDF)](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.90.7.1042) _American Journal of Public Health_ 90, no. 7 (2000): 1042–48.
+Susser, Ida, and Zena Stein. [“Culture, Sexuality, and Women's Agency in the Prevention of HIV/AIDS in Southern Africa.” (PDF)](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.90.7.1042) _American Journal of Public Health_ 90, no. 7 (2000): 1042–48.
 
 
 {{< tdclose >}}
